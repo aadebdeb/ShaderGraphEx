@@ -1,0 +1,7 @@
+{
+    "name": "com.aadebdeb.shadergraphex",
+    "version": "1.0.0",
+    "displayName": "Shader Graph Ex",
+    "description": "Shader Graph Extensions",
+    "license": "MIT"
+}

@@ -7,7 +7,7 @@ Custom Nodes for Unity Shader Graph
 Import the URL below by "Add package from git URL..." in Package Manager.
 
 ```
-https://github.com/aadebdeb/ShaderGraphEx.git/path=/Packages/com.aadebdeb.shadergraphex
+https://github.com/aadebdeb/ShaderGraphEx.git?path=/Packages/com.aadebdeb.shadergraphex
 ```
 
 ## How to Use
